@@ -4,3 +4,5 @@
 *.p
 *.pkl 
 */.floyd*
+save.*
+checkpoint
